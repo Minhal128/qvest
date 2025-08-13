@@ -1,0 +1,8 @@
+{
+  "allocation": [
+    {"asset": "AAPL", "percentage": 25},
+    {"asset": "GOOGL", "percentage": 30},
+    {"asset": "TSLA", "percentage": 20},
+    {"asset": "NVDA", "percentage": 25}
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "investmentAmount": 150000,
+  "riskTolerance": "aggressive",
+  "algorithm": "VQE"
+}

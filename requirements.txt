@@ -1,0 +1,13 @@
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit-finance
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+flask
+flask-cors
+requests
+python-dotenv
