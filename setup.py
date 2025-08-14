@@ -17,7 +17,7 @@ def read_readme():
 
 setup(
     name="qvest",
-    version="1.0.0",
+    version="1.0.1",
     description="IBM Quantum-powered portfolio optimization CLI tool",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
