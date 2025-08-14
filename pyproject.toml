@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "qvest"
-version = "1.0.0"
+version = "1.0.1"
 description = "IBM Quantum-powered portfolio optimization CLI tool"
 readme = "README.md"
 license = {text = "MIT"}
@@ -50,9 +50,9 @@ dev = [
 qvest = "qvest.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/minhalrizvi/qvest"
-"Bug Reports" = "https://github.com/minhalrizvi/qvest/issues"
-Source = "https://github.com/minhalrizvi/qvest"
+Homepage = "https://github.com/Minhal128/qvest"
+"Bug Reports" = "https://github.com/Minhal128/qvest/issues"
+Source = "https://github.com/Minhal128/qvest"
 
 [tool.setuptools.packages.find]
 where = ["."]
