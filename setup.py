@@ -23,7 +23,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Minhal Rizvi",
     author_email="minhal@example.com",
-    url="https://github.com/minhalrizvi/qvest",
+    url="https://github.com/Minhal128/qvest",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
@@ -65,9 +65,9 @@ setup(
     ],
     keywords="quantum computing, portfolio optimization, IBM Quantum, finance, investment",
     project_urls={
-        "Bug Reports": "https://github.com/minhalrizvi/qvest/issues",
-        "Source": "https://github.com/minhalrizvi/qvest",
-        "Documentation": "https://github.com/minhalrizvi/qvest/README.md",
+        "Bug Reports": "https://github.com/Minhal128/qvest/issues",
+        "Source": "https://github.com/Minhal128/qvest",
+        "Documentation": "https://github.com/Minhal128/qvest/README.md",
     },
     include_package_data=True,
     zip_safe=False,
